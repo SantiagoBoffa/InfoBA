@@ -1,1 +1,3 @@
-# InfoBA
+# Tests 
+
+Tests de la aplicación.
